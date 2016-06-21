@@ -9,8 +9,6 @@ squared = chr(1)
 cust_chars = [[0x1c,0x14,0x1c,0x0,0x0,0x0,0x0,0x0],    # degree
              [0x8,0x14,0x8,0x10,0x1c,0x0,0x0,0x0]]     # squared      
 
-deg = chr(176)+'C'       # this is for display on the terminal
-
 lcd = lcddriver.lcd()    # create object for lcd control
 lcd.lcd_load_custom_chars(cust_chars) # upload custom chars to LCD
 lcd.lcd_clear()          # clear LCD ready for start
