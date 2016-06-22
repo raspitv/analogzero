@@ -17,8 +17,8 @@ def update():
 # display an intro message
 row_one = "Hi 20x4 RasPiO"
 row_two = "Analog Zero"
-row_three = "8 channel Voltmeter"
-row_four = ""
+row_three = "Multi-range"
+row_four = "Voltmeter"
 update()
 sleep(2)
 
