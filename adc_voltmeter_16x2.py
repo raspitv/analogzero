@@ -3,7 +3,7 @@ from time import sleep
 from gpiozero import MCP3008
 import lcddriver
 vref = 3.296
-adc_list = [0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,]
+adc_list = [0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0]
 conversion_factors = [3.080,4.668,6.43,1,1,1,1,1]
 toggle = 0
 counter = 0
