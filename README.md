@@ -6,7 +6,7 @@ RasPiO Analog Zero Resources
 
 Photo and link to analog zero page
 RasPiO Analog Zero: 
-![alt text](http://raspi.tv/wp-content/uploads/2016/05/AnalogZero-noBG.png "RasPiO Analog Zero")
+![alt text](http://raspi.tv/wp-content/uploads/2016/05/RasPiO-Analog-Zero-NOT-on-Pi-Zero-cleaned-copy_1500.jpg "RasPiO Analog Zero")
 
 
 License info
