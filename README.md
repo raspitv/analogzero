@@ -4,7 +4,7 @@
 
 
 If you don't have one yet, you can buy a 
-[RasPiO Analog Zero here](https://rasp.io/analogzero "RasPiO Analog Zero") 
+[RasPiO Analog Zero here](http://rasp.io/analogzero "RasPiO Analog Zero") 
 
 
 
@@ -17,7 +17,7 @@ Sofware licensed under CC-BY-SA-4.
 
 ###Basic Use
 No setup is required. Just solder up your board, download the 
-[user guide here](https://rasp.io/analogzero "RasPiO Analog Zero User Guide") 
+[user guide here](http://rasp.io/analogzero "RasPiO Analog Zero User Guide") 
 and start playing with GPIO Zero.
 
 ###Project Kits and i2c LCDs 
@@ -33,7 +33,7 @@ i2c_lib
 in the same directory where you're putting your LCD control scripts.
 
 It's all covered in depth in the 
-[user guide here](https://rasp.io/analogzero "RasPiO Analog Zero User Guide") 
+[user guide here](http://rasp.io/analogzero "RasPiO Analog Zero User Guide") 
 
 
 
