@@ -1,24 +1,23 @@
-# analogzero
-RasPiO Analog Zero Resources
+# RasPiO Analog Zero
 
-
-
-
-Photo and link to analog zero page
-RasPiO Analog Zero: 
 ![alt text](http://raspi.tv/wp-content/uploads/2016/05/RasPiO-Analog-Zero-NOT-on-Pi-Zero-cleaned-copy_1500.jpg "RasPiO Analog Zero")
 
 
-License info
+If you don't have one yet, you can buy a [RasPiO Analog Zero here](https://rasp.io/analogzero "RasPiO Analog Zero") 
 
 
 
 
-This is where the resources for RasPiO Analog Zero will be kept
+##License info
+Sofware licensed under CC-BY-SA-4. 
 
 
+##Setup
 
+###Basic Use
+No setup is required. Just solder up your board, download the user guide and start playing with GPIO Zero.
 
+###Project Kits and i2c LCDs 
 
 You need to have i2c activated on your Pi and you also need smbus installed.
 
