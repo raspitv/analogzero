@@ -9,7 +9,7 @@ If you don't have one yet, you can buy a
 
 ##License info
 Sofware licensed under 
-[CC-BY-NC-SA 3.0 license](https://creativecommons.org/licenses/by-nc-sa/3.0/)) 
+[CC-BY-NC-SA 3.0 license](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 
 
 ##Setup
