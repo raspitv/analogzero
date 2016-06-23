@@ -7,10 +7,9 @@ If you don't have one yet, you can buy a
 [RasPiO Analog Zero here](http://rasp.io/analogzero "RasPiO Analog Zero") 
 
 
-
-
 ##License info
-Sofware licensed under CC-BY-SA-4. 
+Sofware licensed under 
+[CC-BY-NC-SA 3.0 license](https://creativecommons.org/licenses/by-nc-sa/3.0/)) 
 
 
 ##Setup
